@@ -26,7 +26,7 @@
     "debug": "^4.0.0",
     "googleapis": "^99.0.0",
     "jsftp": "^2.0.0",
-    "lzutf8": "^0.0.0",
+    "lzutf8": "~0",
     "mime": "^3.0.0",
     "request": "^2.0.0",
     "sftp-promises": "^1.0.0",
